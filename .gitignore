@@ -1,0 +1,4 @@
+/app/.phpunit.result.cache
+/app/html/
+/app/vendor/
+/.idea/
